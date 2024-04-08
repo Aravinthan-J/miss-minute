@@ -138,6 +138,6 @@ Object.values(clock_style).forEach((obj) => {
     }
   });
   let clocks = document.getElementById("clocks");
-
+  let maindev=document.getAnimat()
   clocks.appendChild(div);
 });
